@@ -7,3 +7,6 @@ Compile: `g++ src/editor.cpp -o editor`
 
 ---
 *Released under the MIT License by Sassywow.*
+
+---
+*Released under the MIT License by jocck96.*
